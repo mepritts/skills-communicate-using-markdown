@@ -5,6 +5,7 @@
 ##### how many headers are there???
 ###### there are SIX header options
 
+![Image of Yaktocat found on octodex](https://octodex.github.com/images/yaktocat.png)
 
+testing headers and images
 
-testing headers
