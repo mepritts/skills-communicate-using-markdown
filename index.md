@@ -7,5 +7,15 @@
 
 ![Image of Yaktocat found on octodex](https://octodex.github.com/images/yaktocat.png)
 
-testing headers and images
+```
+def add(x, y):
+    return (x+y)
+
+add(2, 3)
+```
+
+
+
+testing headers and images and code snippets
+
 
