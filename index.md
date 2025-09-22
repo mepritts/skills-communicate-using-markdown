@@ -14,8 +14,14 @@ def add(x, y):
 add(2, 3)
 ```
 
+### Here is my new task list
+- [ ] learn to use markdown
+- [ ] finish github skills training
+- [ ] start reviewing dataset stuff after lunch
 
 
-testing headers and images and code snippets
+
+testing headers and images and code snippets AND a checklist!
+
 
 
